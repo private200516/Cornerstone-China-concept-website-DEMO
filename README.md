@@ -1,7 +1,7 @@
 # Cornerstone China 欧信英才 — Website Redesign DEMO
 
-> **⚠️ This is a design DEMO / prototype, not the production website.**
-> **⚠️ 本仓库为设计 DEMO 原型，非正式生产网站。**
+> ** This is a design DEMO / prototype, not the production website.**
+> ** 本仓库为设计 DEMO 原型，非正式生产网站。**
 
 **Live Preview 在线预览：** https://private200516.github.io/cornerstone-demo/
 
